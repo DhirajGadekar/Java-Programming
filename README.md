@@ -4,7 +4,7 @@
 A brief description of fundamentals of programming in Java, including syntax, data types, control structures, functions, classes, and object-oriented programming concepts.
 
 
-![Logo](https://thumbs.dreamstime.com/b/java-technology-website-design-language-application-banner-colorful-plexus-software-vector-illustration-online-166485226.jpg)
+![Logo](https://p92.com/binaries/content/gallery/p92website/jobs/java_banner.png)
 
 
 
