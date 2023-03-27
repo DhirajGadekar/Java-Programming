@@ -29,13 +29,15 @@ $DailyCodes :
 
 6.Loops (for, while)
 
-##contribution :
-
-[![Dhiraj Gadekar](https://avatars1.githubusercontent.com/u/12688534?v=3&s=144)](https://github.com/DhirajGadekar)  | [![Quandl.com](https://github.com/iharsh234/WebApp/blob/master/images/quandl.jpg)](https://www.quandl.com/)
----|---
-[Dhiraj Gadekar ](https://github.com/DhirajGadekar) |[Quandl](https://www.quandl.com)
-
 $Assignments : 
+
+## Contribution :  
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/DhirajGadekar"><img src="https://avatars.githubusercontent.com/u/111908836?v=4" width="100px;" alt="Dhiraj Gadekar"/><br/><sub><b>Dhiraj Gadekar</b></sub></a><br/>
+</tr>
+</table>
 
 
 
