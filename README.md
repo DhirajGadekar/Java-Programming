@@ -29,11 +29,14 @@ $DailyCodes :
 
 6.Loops (for, while)
 
+##contribution :
+
+[![Dhiraj Gadekar](https://avatars1.githubusercontent.com/u/12688534?v=3&s=144)](https://github.com/DhirajGadekar)  | [![Quandl.com](https://github.com/iharsh234/WebApp/blob/master/images/quandl.jpg)](https://www.quandl.com/)
+---|---
+[Dhiraj Gadekar ](https://github.com/DhirajGadekar) |[Quandl](https://www.quandl.com)
+
 $Assignments : 
 
-## Feedback
-
-If you have any feedback, please reach out to us at dhirajgadekar.work@gmail.com
 
 
 ## Tools :
@@ -41,3 +44,7 @@ If you have any feedback, please reach out to us at dhirajgadekar.work@gmail.com
 1.IntelliJ IDEA Community Edition
 
 2.OpenJDK JDK 19.0.2 
+
+## Feedback
+
+If you have any feedback, please reach out to us at dhirajgadekar.work@gmail.com
