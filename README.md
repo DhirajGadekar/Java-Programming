@@ -25,7 +25,7 @@ $DailyCodes :
 
 $Assignments : 
 
-## Contribution :  
+## Contributor :  
 
 <table>
   <tr>
