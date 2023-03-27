@@ -7,12 +7,6 @@ A brief description of fundamentals of programming in Java, including syntax, da
 ![Logo](https://thumbs.dreamstime.com/b/java-technology-website-design-language-application-banner-colorful-plexus-software-vector-illustration-online-166485226.jpg)
 
 
-# Hi, I'm Dhiraj Gadekar! 👋
-
-
-## 🚀 About Me
-I'm a C/C++ ,Java Developer and also,I have good knowledge of web Development 
-
 
 ## Content
 $DailyCodes :
