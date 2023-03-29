@@ -9,7 +9,7 @@ A brief description of fundamentals of programming in Java, including syntax, da
 
 
 ## Content
-$DailyCodes :
+**DailyCodes :**
 
 1.Installing Java
 
@@ -23,7 +23,7 @@ $DailyCodes :
 
 6.Loops (for, while)
 
-$Assignments : 
+**Assignments :** 
 
 ## Contributor :  
 
