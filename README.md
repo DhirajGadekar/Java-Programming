@@ -8,22 +8,24 @@ A brief description of fundamentals of programming in Java, including syntax, da
 
 
 
-## Content
-**DailyCodes :**
+## Content : 
+**Class Codes and Assignments :**
 
-1.Installing Java
-
-2.Writing and running your first Java program
-
-3.Basic Syntax and Data Types
-
-4.Operators
-
-5.If-else statement
-
-6.Loops (for, while)
-
-**Assignments :** 
+     1.DataTyes :
+            a.Class Codes
+            
+     2.Operators :
+            a.Class Codes
+            
+     3.Statements : 
+            a.If-Else
+                  i.Class Codes
+                  ii.Assignments
+            b.Switch
+                  i.Class Codes
+            
+     4.Break and Continue :
+            a.Class Codes
 
 ## Contributor :  
 
