@@ -26,6 +26,13 @@ A brief description of fundamentals of programming in Java, including syntax, da
             
      4.Break and Continue :
             a.Class Codes
+     
+     5.Loops :
+            a.While loop :
+                  i.Class Codes
+                  ii.Assignments
+                  iii.Practice Codes
+     
 
 ## Contributor :  
 
