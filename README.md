@@ -32,6 +32,10 @@ A brief description of fundamentals of programming in Java, including syntax, da
                   i.Class Codes
                   ii.Assignments
                   iii.Practice Codes
+            b.For Loop :
+                  i.Class Codes
+                  ii.Assignments
+                  iii.Practice Codes
      
 
 ## Contributor :  
