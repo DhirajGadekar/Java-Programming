@@ -37,9 +37,13 @@ A brief description of fundamentals of programming in Java, including syntax, da
                   ii.Assignments
                   iii.Practice Codes
                   
-      6.Input/Output :             
+      6.Input/Output :  
+      
+      7.Array : 
+            a. Class Code
+            b. Assignments
+            c. Practice Codes
      
-
 ## Contributor :  
 
 <table>
