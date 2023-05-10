@@ -21,7 +21,7 @@ class MethodlastIndexOf {
 
                 if(myLength(str) > num) {
 
-                        for(int i = 0; i < num; i++) {
+                        for(int i = num; i > -1; i--) {
 
                                 if(ch == arr[i]){
 
