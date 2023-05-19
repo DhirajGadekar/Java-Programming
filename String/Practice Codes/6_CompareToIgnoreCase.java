@@ -33,7 +33,7 @@ class MyCompareToIgonreCase {
 					continue;
 				}else{
 					
-					return arr1[i] - arr2[i];
+					return 32 - (arr1[i] - arr2[i]);
 				}
 			}	
 		}else{
