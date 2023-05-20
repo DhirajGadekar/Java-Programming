@@ -1,35 +1,30 @@
 
-class Gym {
-	
-	String clientName = "Dhiraj";
-	int lockerNo = 12;
-	static boolean gymEquipments = true;
+class Dream11 {
 
-	void clientInfo() {
-				
-		System.out.println("Name : " + clientName);
-		System.out.println("Locker No : " + lockerNo);
-		System.out.println("Equip : " +  gymEquipments);
+	int noOfTeams = 3;
+	static String Contests = "Mega";
+	static int noOfPlayersEachTeam = 11;
+
+	static void contestsInfo() {
+		
+		System.out.println("Type of Contest : " + Contests);
+		System.out.println("1st Price 1 Crore");
+	}
+
+	void creatingTeam() {
+	
+		System.out.println("Team Successfully Created");
 	}
 }
 
-class Client {
+class User {
 	
 	public static void main(String[] args) {
-		
-		Gym client1 = new Gym();
-		Gym client2 = new Gym();
 
-		client1.clientInfo();
-		client2.clientInfo();
+		Dream11 obj = new Dream11();
 
-		client2.clientName = "Ganesh";
-		client2.lockerNo = 20;
-		client2.gymEquipments = false;
-
-		System.out.println("---------------------------------------");
-
-		client1.clientInfo();
-		client2.clientInfo();
+		obj.contestsInfo();
+		obj.creatingTeam();
 	}
+
 }
