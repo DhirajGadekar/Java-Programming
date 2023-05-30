@@ -43,6 +43,22 @@ A brief description of fundamentals of programming in Java, including syntax, da
             a. Class Code
             b. Assignments
             c. Practice Codes
+            
+       8.Methods :
+            a. Class Code
+            b. Assignments
+            c. Practice Codes
+       
+       9.String :
+            a. Class Code
+            b. Assignments
+            c. Practice Codes
+            
+       10.Class and Object :
+            a. Class Code
+            b. Assignments
+            c. Practice Codes
+            
      
 ## Contributor :  
 
@@ -60,7 +76,7 @@ A brief description of fundamentals of programming in Java, including syntax, da
 
 2.Vim Text Editor
 
-3.OpenJDK JDK 19.0.2 / 8
+3.OpenJDK JDK 8/ 11/ 17/ 19
 
 ## Feedback
 
