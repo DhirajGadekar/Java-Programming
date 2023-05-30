@@ -76,7 +76,7 @@ A brief description of fundamentals of programming in Java, including syntax, da
 
 2.Vim Text Editor
 
-3.OpenJDK JDK 8/ 11/ 17/ 19
+3.Java 8/ 11/ 17/ 19
 
 ## Feedback
 
