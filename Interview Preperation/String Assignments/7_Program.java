@@ -24,7 +24,45 @@
 import java.io.*;
 
 class Solution {
-
+	
+	boolean isPresent(char key, char arr[],int itr) {
+		
+		for(int i = 0; i < itr; i++) {
+			
+			if(key == arr[i]) {
+				
+				return true;
+			}
+		}
+		return false;
+	}
+	void frequencyCount(String str) {
+		
+		char arr[] = new char[str.length()];
+		int itr = 0;
+		for(int i = 0; i < str.length(); i++) {
+			
+			int count = 0;
+			for(int j = 0 ;  j < str.length(); j++) {
+			
+				if(str.charAt(i) == str.charAt(j)) {
+				
+					count++;
+				}	
+			}
+			if(isPresent(str.charAt(i),arr,itr)) {
+				
+				continue;
+			} else {
+				
+				if(' ' != str.charAt(i)) {
+					System.out.println(str.charAt(i) + " : " + count);
+				}
+				arr[itr] = str.charAt(i);
+				itr++;
+			}
+		}
+	}
 }
 class StringAssignment {
 	
@@ -33,5 +71,10 @@ class StringAssignment {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		
 		Solution obj = new Solution();
+
+		System.out.println("Enter String : ");
+		String str = br.readLine();
+
+		obj.frequencyCount(str);
 	}
 }
