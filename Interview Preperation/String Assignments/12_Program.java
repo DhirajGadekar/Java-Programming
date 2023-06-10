@@ -11,7 +11,19 @@
 import java.io.*;
 
 class Solution {
-
+	
+	//Without Using Library Method :
+	int isLength(String str) {
+		
+		char arr[] = str.toCharArray();
+			
+		int count = 0;
+		for(int i = 0 ; i < arr.length; i++) {
+			
+			count++;
+		}
+		return count;
+	}
 }
 class StringAssignment {
 
@@ -19,5 +31,14 @@ class StringAssignment {
 		
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		Solution obj = new Solution();
+
+		System.out.println("Enter String : ");
+		String str = br.readLine();
+
+		int ret = obj.isLength(str);
+		System.out.println("Length of String : " + ret);
+
+		/*Using Library Method : 
+		System.out.println("Length of String : " + str.length()); */
 	}
 }
