@@ -1,9 +1,0 @@
-*****Inner Class*****
-
- Types :
-	1). Normal Inner Class
-	2). Method Local Inner Class
-	3). Static Inner Class(Static Nested Class)
-	4). Annonymous Inner Class
-		- Noraml Annonymous Inner Class
-		- Parameterised Annonymous Inner Class
