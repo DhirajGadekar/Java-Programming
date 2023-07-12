@@ -72,11 +72,13 @@ A brief description of fundamentals of programming in Java, including syntax, da
 
 ## Tools :
 
-1.IntelliJ IDEA Community Edition
+1. IntelliJ IDEA Community Edition
 
-2.Vim Text Editor
+2. Vim Text Editor
 
-3.Java 8/ 11/ 17/ 19
+3. Java 8/ 11/ 17/ 19
+
+4. VS Code
 
 ## Feedback
 
