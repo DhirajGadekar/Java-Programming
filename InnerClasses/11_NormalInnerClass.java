@@ -21,3 +21,11 @@ class Main {
 		System.out.println(Outer.Inner.b);
 	}
 }
+
+/*
+ * Note :
+	Before the Java 17 update Static didn't work in the inner class, 
+	so we were adding the final keywork before the static variable. 
+	But after the update of java 17 there is no need to add final 
+	keyboard. static also works without adding final keyboard
+ */
