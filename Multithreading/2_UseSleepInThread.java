@@ -7,7 +7,7 @@ class MyThread extends Thread {
 			System.out.println("In run");
 			try {
 				
-				Thread.sleep(1000);
+				Thread.sleep(10);
 			} catch(InterruptedException obj) {
 				
 				System.out.println("Exception Handled");
@@ -21,7 +21,7 @@ class Main {
 		
 		MyThread obj = new MyThread();
 		obj.start();
-
+		
 		for(int i = 0 ; i < 10; i++) {
 
 			System.out.println("In Main");

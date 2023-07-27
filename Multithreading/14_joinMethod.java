@@ -17,9 +17,10 @@ class Main {
 		MyThread obj2 = new MyThread();
 
 		obj1.start();
-		obj2.start();
 
 		obj1.join();
+
+		obj2.start();
 		
 		for(int i = 0; i < 10; i++) {
 			
