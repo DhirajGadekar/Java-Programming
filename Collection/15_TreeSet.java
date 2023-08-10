@@ -51,11 +51,14 @@ class TreeSetMethods {
   		
 		// 12) public E higher(E);
   		System.out.println(ts.higher("Ashish"));
-		// 13) public E pollFirst();
+
+		// 13) public java.util.NavigableSet<E> descendingSet();
+		System.out.println(ts.descendingSet());		
+		// 14) public E pollFirst();
   		System.out.println(ts.pollFirst());
 		System.out.println(ts);
 
-		// 14) public E pollLast()
+		// 15) public E pollLast()
 		System.out.println(ts.pollLast());	
 		System.out.println(ts);
 	}
