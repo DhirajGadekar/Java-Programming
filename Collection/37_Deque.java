@@ -21,5 +21,6 @@ class DequeDemo {
 		que.pollFirst();
 		que.pollLast();
 		System.out.println(que);
+
 	}
 }
