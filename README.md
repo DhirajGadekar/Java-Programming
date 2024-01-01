@@ -68,7 +68,7 @@ A brief description of fundamentals of programming in Java, including syntax, da
 </tr>
 </table>
 
-
+Contributions are welcome! If you have any suggestions, improvements, or additional examples related to the Singleton pattern, feel free to open an issue or submit a pull request.
 
 ## Tools :
 
